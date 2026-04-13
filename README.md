@@ -1,4 +1,5 @@
-# Pathfinder
+<<<<<<< HEAD
+# PathVista
 
 ## Description
 
@@ -13,3 +14,5 @@ Pathfinder is a pathfinding visualizer that finds the path between a source node
 - **Maze Generation**:
   - Create a maze of walls using recursive division, ensuring the maze is always solvable.
   - Generate a randomized weighted maze by selecting the density of the weights.
+=======
+
