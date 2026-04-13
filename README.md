@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PathVista
 
 ## Description
