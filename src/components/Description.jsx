@@ -15,6 +15,7 @@ const Description = () => {
   const [txt, setTxt] = useState(algoInfo[3]);
 
   useEffect(() => {
+    console.log("Selected Algorithm:", algorithm);
     if (algorithm === null) {
       setTxt(algoInfo[3]);
     } else if (algorithm === "Dijkstra") {
