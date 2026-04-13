@@ -2,7 +2,7 @@
 
 ## Description
 
-Pathfinder is a pathfinding visualizer that finds the path between a source node and a target node using various pathfinding algorithms.
+PathVista is a pathfinding visualizer that finds the path between a source node and a target node using various pathfinding algorithms.
 
 ## Features
 
