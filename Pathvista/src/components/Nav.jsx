@@ -210,7 +210,7 @@ const Nav = () => {
           mt={1}
           mb={2}
         >
-          Pathfinder
+          PathVista 
         </Text>
       </HStack>
       <HStack w={"100%"} mb={4} pl={4}>
